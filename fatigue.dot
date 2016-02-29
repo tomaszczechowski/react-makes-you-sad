@@ -74,10 +74,10 @@ digraph {
 
   is_not_enough_flux[
     shape="diamond",
-    label="Do you a few
-    painfully bloated stateful
-    components at the top
-    of your component hierarchy?"
+    label="Do you have a few
+    bloated stateful components at the top
+    of your component hierarchy that are
+    often the source of bugs?"
   ]
   is_not_enough_flux -> add_flux[label="yes"]
   is_not_enough_flux -> are_you_using_bundler[label="no"]
