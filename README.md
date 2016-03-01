@@ -16,6 +16,10 @@ Based on and inspired by https://github.com/petehunt/react-howto
 3. Generate the `.svg` with `dot -Tsvg fatigue.dot > fatigue.svg`
 4. Send a PR!
 
+## Translation
+
+- [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
+
 ## License
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
