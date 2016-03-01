@@ -1,27 +1,28 @@
 # react-makes-you-sad
-React 때문에 행복해 지는 flowchart! 입니다.
+Here’s a flowchart to make you happy again!
 
-## <a href='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/korean/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
 
-<img src='https://cdn.rawgit.com/ehrudxo/react-makes-you-sad/korean/fatigue.svg'>
+<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
 
 ## Credits
 
-영감을 받은 프로젝트 -  https://github.com/petehunt/react-howto
+Based on and inspired by https://github.com/petehunt/react-howto
 
 ## Contributing
 
-1. `.dot` 파일을 편집합니다. https://atom.io/packages/graphviz-preview
-2. `dot`을 설치합니다.  http://www.graphviz.org/Download.php
-3. `.svg` 를 다음 명령어로 만듭니다 `dot -Tsvg fatigue.dot > fatigue.svg`
-4. PR을 보내죠!
+1. Edit the `.dot` file with https://atom.io/packages/graphviz-preview
+2. Install `dot` from http://www.graphviz.org/Download.php
+3. Generate the `.svg` with `dot -Tsvg fatigue.dot > fatigue.svg`
+4. Send a PR!
 
 ## Translation
 
 - [简体中文](https://github.com/wyvernnot/react-makes-you-sad)
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
+- [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
 
-## 라이센스
+## License
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
