@@ -13,6 +13,10 @@ Based on and inspired by https://github.com/petehunt/react-howto
 
 1. Edit the `.dot` file with https://atom.io/packages/graphviz-preview
 2. Install `dot` from http://www.graphviz.org/Download.php
+2. Install `dot`, a part of [Graphviz](http://www.graphviz.org/).
+  * On OSX with [Homebrew](http://www.brew.sh), merely do `brew install graphviz`.
+  * Otherwise, it's probably in your OS's package repositories as simply `graphviz`.
+  * You can also get an installer from the [Graphviz downloads page](http://www.graphviz.org/Download.php).
 3. Generate the `.svg` with `dot -Tsvg fatigue.dot > fatigue.svg`
 4. Send a PR!
 
