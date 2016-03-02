@@ -26,6 +26,7 @@ Based on and inspired by https://github.com/petehunt/react-howto
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
 - [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
+- [Spanish](https://github.com/jvalen/react-makes-you-sad)
 
 ## License
 
