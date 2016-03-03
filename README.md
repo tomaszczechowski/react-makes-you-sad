@@ -15,7 +15,7 @@ Based on and inspired by https://github.com/petehunt/react-howto
 
 * If you are using a Flux library (or Redux) and it adds a lot of boilerplate for no obvious gain, remove it and learn state management in vanilla React with the official <a href="https://facebook.github.io/react/docs/thinking-in-react.html" target="_blank">Thinking in React</a> guide.
 
-* If you don’t feel confortable using ES2015 features (e.g. classes and fat arrows) and you feel like updating your JavaScript knowledge, <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> is an amazing guide. Use <a href="https://babeljs.io/repl/" target="_blank">Babel</a> to verify your assumptions.
+* If you don’t feel comfortable using ES2015 features (e.g. classes and fat arrows) and you feel like updating your JavaScript knowledge, <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> is an amazing guide. Use <a href="https://babeljs.io/repl/" target="_blank">Babel</a> to verify your assumptions.
 
 * If you are just learning React, and a JavaScript bundler like Webpack confuses you, copy <a href="https://github.com/jarsbe/react-simple" target="_blank">jarsbe/react-simple</a> and start hacking with no build step.
 
