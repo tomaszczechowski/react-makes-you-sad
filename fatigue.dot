@@ -2,7 +2,7 @@ digraph {
   unhappy[
     shape="box",
     style=rounded,
-    label="React makes you sad."
+    label="Smuci Cię React?"
   ]
   unhappy -> are_you_using_react_boilerplates;
 
@@ -10,15 +10,15 @@ digraph {
 
   are_you_using_react_boilerplates[
     shape="diamond",
-    label="Are you learning
-    React by copying from the
-    boilerplate projects?"
+    label="Czy uczysz się React'a poprzez kopiowanie kodu z \"boilerplate\"?"
   ]
   are_you_using_react_boilerplates -> boilerplates_dont_teach[label="yes"]
   are_you_using_react_boilerplates -> steal_from_boilerplates[label="no"]
 
   boilerplates_dont_teach[
     shape="box",
+    label="Uczenie się React'a poprzez gotowe szablony projektów jest jak uczenie się gotowania poprzez jedzenie posiłków w drogich restauracjach. Tak to nie działa. Musisz zacząć od podstaw i zignorować strach przed pominięciem czegoś nowego. Ludzie tworzą gotowe szablony projektów, aby pokazać co stworzyli albo czego się nauczyli, a nie po to aby Ci pomóc w nauce. Szablony zostały stworzone przez i dla bardziej zaawansowanych użytkowników i częściej są tworzone bardziej jako eksperyment "
+
     label="Learning React by copying boilerplates
     is like learning to cook by eating food in
     fancy restaurants. It doesn’t work. You need
